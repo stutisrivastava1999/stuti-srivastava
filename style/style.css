@@ -1,0 +1,30 @@
+nav { margin-bottom: 50px; }
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#cap{
+    caption-side: top;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+#about{
+    
+    text-align: center;
+    background:#5cb85c;
+    height:100px;
+    padding-top: 30px;
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+    color:black;
+  }
